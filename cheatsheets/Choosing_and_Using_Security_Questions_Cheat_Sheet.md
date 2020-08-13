@@ -117,7 +117,7 @@ Forgotten password functionality often provides a mechanism for attackers to enu
 
 - The user enters email address (and solves a CAPTCHA).
 - The application displays a generic message such as "If the email address was correct, an email will be sent to it".
-- An email email with a randomly generated, single-use link is sent to the user.
+- An email with a randomly generated, single-use link is sent to the user.
 - The user clicks the link.
 - The user is presented with the security question(s).
 - If the answer is correct, the user can enter a new password.
